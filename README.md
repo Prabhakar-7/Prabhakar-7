@@ -1,69 +1,62 @@
-# Hello 👋 I'm **Prabhakar**
+# Hello 👋 I'm **Prabhakar** (aka **Kira**)
 
 ---
 
 ## 🚀 About Me
 
-I am a **Technical Trainer & Aspiring Data Scientist / AI Engineer** with a strong focus on **Data Science, Machine Learning, and AI-driven applications**. I enjoy turning complex concepts into **clear, hands-on learning experiences** and building practical projects that solve real-world problems.
+I am a **2nd Year B.Sc. Information Technology (Data Science)** student with a strong interest in **Data Science and Machine Learning**.
 
-What I do best:
+I focus on **learning by building**. Instead of claiming large academic projects, I have created and deployed **multiple machine learning applications**, each demonstrating a different algorithm and its real-world usage.
 
-* 🧠 Simplify complex ML/AI concepts with real examples
-* 🛠️ Build end-to-end data science & ML projects
-* 👨‍🏫 Teach with a strong emphasis on implementation
+What defines me:
 
-I believe **consistency, practice, and real-world application** are the keys to mastery in technology.
+* 🧠 Strong fundamentals in machine learning algorithms
+* 🛠️ Hands-on learning through deployed ML apps
+* 🚀 Ability to convert theory into working applications
+
+I believe **consistent practice and real implementation** are the fastest ways to grow in tech.
 
 📍 **Location:** India
-💼 **Role:** Technical Trainer | Data Science & AI
-🎯 **Interests:** Data Science, Machine Learning, AI Applications, Computer Vision, Applied ML
+🎓 **Degree:** B.Sc. IT (Data Science) – 2nd Year
+🎯 **Interests:** Data Science, Machine Learning
 
 ---
 
-## 🛠️ Skills & Tech Stack
+## 🛠️ Skills & Tools
 
-**Programming Languages**
+**Programming**
+*🐍 Python * ☕ Java * 🟨 JavaScript
 
-* 🐍 Python | ☕ Java | 🟨 JavaScript
+**Machine Learning**
 
-**Data Science & Machine Learning**
+* NumPy | Pandas | Scikit-learn
 
-* NumPy | Pandas | Scikit-learn | EDA | Feature Engineering | Model Evaluation
+**ML App Deployment**
 
-**AI & Computer Vision**
-
-* OpenCV | Image Processing | Face Recognition
-
-**Web & App Development**
-
-* Flask | HTML5 | CSS3
+* Flask | Streamlit
 
 ---
 
-## 📂 Featured Projects
+## 📂 Deployed Machine Learning Applications
 
-### 🔹 Data Science & Machine Learning
+> Each application demonstrates a complete flow: **input → ML model → prediction → output UI**.
 
-**📌 Data Science Portfolio**
-A collection of projects covering data cleaning, exploratory analysis, feature engineering, model training, and evaluation using real-world datasets.
-
-**📌 Movie Recommendation System (Decision Tree)**
-A supervised machine learning project that predicts user movie preferences using classification techniques.
-
----
-
-### 🔹 Computer Vision & AI
-
-**📌 Face Recognition Attendance System**
-An automated attendance system built using Python and OpenCV that leverages facial recognition for improved accuracy and efficiency.
+* 📊 Linear Regression App
+* 🌳 Decision Tree App
+* 🌲 Random Forest App
+* 🤖 K-Nearest Neighbors (KNN) App
+* 📈 Logistic Regression App
+* 🔎 Support Vector Machine (SVM) App
+* 🧮 Naive Bayes App
+* 🧠 K-Means Clustering App
 
 ---
 
-## 📈 Currently Working On
+## 📈 Currently Learning
 
-* 🚀 Advanced machine learning projects
-* 🤖 AI-based real-world applications
-* 📚 Improving teaching workflows with project-based learning
+* Advanced machine learning concepts
+* Model evaluation & optimization
+* Real-world data handling
 
 ---
 
@@ -74,4 +67,4 @@ An automated attendance system built using Python and OpenCV that leverages faci
 
 ---
 
-⭐ *Feel free to explore my repositories and connect with me!*
+⭐ *Always open to learning, building, and improving.*

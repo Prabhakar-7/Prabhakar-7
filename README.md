@@ -1,4 +1,4 @@
-# Hello 👋 I'm **Prabhakar** (aka **Kira**)
+# Hello 👋 I'm **Prabhakar**
 
 ---
 
@@ -26,7 +26,7 @@ I believe **consistent practice and real implementation** are the fastest ways t
 
 **Programming**
 
-* 🐍 Python * ☕ Java * 🟨 JavaScript
+* 🐍 Python | ☕ Java | 🟨 JavaScript
 
 **Machine Learning**
 
@@ -42,7 +42,7 @@ I believe **consistent practice and real implementation** are the fastest ways t
 
 > Each application demonstrates a complete flow: **input → ML model → prediction → output UI**.
 
-* 📊 Linear Regression App
+- 📊 Linear Regression App → [Code](https://github.com/Prabhakar-7/Data-Scientist#linearproject)
 * 🌳 Decision Tree App
 * 🌲 Random Forest App
 * 🤖 K-Nearest Neighbors (KNN) App

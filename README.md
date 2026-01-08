@@ -25,7 +25,8 @@ I believe **consistent practice and real implementation** are the fastest ways t
 ## 🛠️ Skills & Tools
 
 **Programming**
-*🐍 Python * ☕ Java * 🟨 JavaScript
+
+* 🐍 Python * ☕ Java * 🟨 JavaScript
 
 **Machine Learning**
 
